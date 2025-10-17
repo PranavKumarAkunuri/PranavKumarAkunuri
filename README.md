@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm A. Sai Pranav Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **Blazor & .NET**
+- 🌱 I’m currently learning **Nuxt.js**
 
-- 💬 Ask me about **.NET , Tech , movies**
+- 💬 Ask me about **Vue , Tech , movies**
 
 - 📫 How to reach me **pranav.05a@gmail.com**
 
