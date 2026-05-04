@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Nuxt.js**
 
-- 💬 Ask me about **Vue , Tech , movies**
+- 💬 Ask me about **Vue , Tech**
 
 - 📫 How to reach me **pranav.05a@gmail.com**
-
-- ⚡ Fun fact **I think I am funny but I'm not!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
